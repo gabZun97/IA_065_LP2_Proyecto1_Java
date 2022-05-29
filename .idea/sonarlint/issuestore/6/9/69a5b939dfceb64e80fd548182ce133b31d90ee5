@@ -1,0 +1,95 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¡‘˜ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·´ÆÄ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¡‘˜ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´åÚ¡
+M	java:S106"9Replace this use of System.out or System.err by a logger.(˜¯‹h
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡´„²üÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(Ö¥ì·
+S	java:S106("9Replace this use of System.out or System.err by a logger.(É®ù¡øÿÿÿÿ
+@
+java:S1197*"*Move the array designators [] to the type.(³ı³ê
+@
+java:S1197+"*Move the array designators [] to the type.(æ¾é¼
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ƒÉ¼Ï
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(­äú‹ÿÿÿÿÿ
+M	java:S1065"9Replace this use of System.out or System.err by a logger.(˜¯‹h
+B
+java:S1197;",Move the array designators [][] to the type.(âª»æ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(ïÇÁ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ßş„¹ıÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(Ê£ˆ”
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(­˜ùÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(Êœ¾°
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(´€–«øÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(©Êñƒ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(š¾¶ãşÿÿÿÿ
+M	java:S106Q"9Replace this use of System.out or System.err by a logger.(íÇ,
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(š¾¶ãşÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(Îî³´ûÿÿÿÿ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(š¾¶ãşÿÿÿÿ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+h
+java:S3776]"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Œ°ìû
+B
+java:S1197]",Move the array designators [][] to the type.(Œ°ìû
+J
+java:S1481_"/Remove this unused "contratado" local variable.(¹Î­Õúÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(”Éá¬ûÿÿÿÿ
+H
+java:S1135d"2Complete the task associated to this TODO comment.(¹ˆê–
+N	java:S106i"9Replace this use of System.out or System.err by a logger.(Û–±
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(Á±º¾
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(Ê£ˆ”
+M	java:S106o"9Replace this use of System.out or System.err by a logger.(¬ Ób
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(øèìÆøÿÿÿÿ
+M	java:S106t"9Replace this use of System.out or System.err by a logger.(˜¯‹h
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(Á±ï¬ıÿÿÿÿ
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(éÎ”ßùÿÿÿÿ
+N	java:S106‰"9Replace this use of System.out or System.err by a logger.(˜¯‹h
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(©Êñƒ
+O	java:S106–"9Replace this use of System.out or System.err by a logger.(î˜å°
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(œÑ‡ò
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(î˜å°
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(ğêçÀşÿÿÿÿ
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(î˜å°
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÉÙ…üÿÿÿÿ
+O	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(šø¬¬
+N	java:S106£"9Replace this use of System.out or System.err by a logger.(«îÙ
+T	java:S106¥"9Replace this use of System.out or System.err by a logger.(ÊäøÜøÿÿÿÿ
+O	java:S106§"9Replace this use of System.out or System.err by a logger.(ë¸ª¨
+A
+java:S1197ª"*Move the array designators [] to the type.(ïè“Ñ
+A
+java:S1197ª"*Move the array designators [] to the type.(ïè“Ñ
+H
+java:S1481¯",Remove this unused "repetir" local variable.(ñÚÊÚşÿÿÿÿ
+T	java:S106±"9Replace this use of System.out or System.err by a logger.(Öùá¡şÿÿÿÿ
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(¢˜¼Œúÿÿÿÿ
+T	java:S106¶"9Replace this use of System.out or System.err by a logger.(Ô•áùÿÿÿÿ
+T	java:S106¹"9Replace this use of System.out or System.err by a logger.(ıãâ¹ÿÿÿÿÿ
+T	java:S106»"9Replace this use of System.out or System.err by a logger.(†©Ì¢üÿÿÿÿ
+T	java:S106½"9Replace this use of System.out or System.err by a logger.(¦ö„´üÿÿÿÿ
+T	java:S106À"9Replace this use of System.out or System.err by a logger.(°Öüÿÿÿÿ
+O	java:S106Ã"9Replace this use of System.out or System.err by a logger.(©Êñƒ
+T	java:S106Æ"9Replace this use of System.out or System.err by a logger.(ñ¨‘ûÿÿÿÿ
+T	java:S106Ç"9Replace this use of System.out or System.err by a logger.(ê›ã›úÿÿÿÿ
+T	java:S106È"9Replace this use of System.out or System.err by a logger.(ñ¨‘ûÿÿÿÿ
+N	java:S106Ë"9Replace this use of System.out or System.err by a logger.(„„#
+T	java:S106Ï"9Replace this use of System.out or System.err by a logger.(ñ¨‘ûÿÿÿÿ
+
+java:S1192–"éDefine a constant instead of duplicating this literal "+------------------------------------------+-----------------------+------------------------------+---------------+--------------------+-----------------------------+%n" 3 times.(î˜å°
+•
+java:S1192Æ"yDefine a constant instead of duplicating this literal "+--------------------------------+-------------------+%n" 3 times.(ñ¨‘ûÿÿÿÿ
+c
+java:S1192O"MDefine a constant instead of duplicating this literal "Imprimiendo:" 3 times.(©Êñƒ
+ö
+java:S1192P"ÚDefine a constant instead of duplicating this literal "+------------------------------------------+--------------------------------+---------------+-------------------+---------------------+---------------+%n" 3 times.(š¾¶ãşÿÿÿÿ
+i
+java:S1192¹"MDefine a constant instead of duplicating this literal "El producto " 3 times.(ıãâ¹ÿÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¹–Ê
+2
+java:S1643x"Use a StringBuilder instead.(ŠË€Í
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óä¤äøÿÿÿÿ
